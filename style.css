@@ -80,12 +80,14 @@ body {
     flex: 0.5;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     text-align: left;
     margin: 0 3em;
   }
   .card__infoValues {
     display: flex;
-    margin-left: -2.5em;
+    margin-left: -6.2em;
   }
   .card__info h1 {
     font-size: 2.4em;
